@@ -2,8 +2,6 @@
 
 ## **🧾Table of Contents**
 
-- [**Sport World | Love, Laugh, Learn, Lucrative for Sport⚽**](#sport-world--love-laugh-learn-lucrative-for-sport)
-  - [**🧾Table of Contents**](#table-of-contents)
   - [**📖Introduction**](#introduction)
   - [**🚀How to Access Sport World**](#how-to-access-sport-world)
   - [**🎮Gameplay \& Features**](#gameplay--features)
